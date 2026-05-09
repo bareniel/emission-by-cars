@@ -1,0 +1,27 @@
+,,,,,,,,,"Nama Perusahaan Produsen atau Importir Kendaraan　　　　Nissan Motor Co., Ltd.",,,,,,,,,,
+Mobil Barang Diesel,,,,,,,,,,,,,,,,,,,Tahun Target (TA 2015)
+,,,,,,,,,,,Mode JC08,,,,,,,,Tingkat Pencapaian Standar BBM
+,,,,Mesin,,,,,,,,1km Berkendara,"Nilai Setara Efisiensi BBM
+Atau
+Standar Efisiensi BBM
+(km/L)",Utama,Faktor Lain Pembeda Efisiensi BBM,,,(Referensi),
+,,,,,Kapasitas,Tipe Transmisi &,Berat Kendaraan,Kapasitas Muatan,Total Berat Kendaraan,Kendaraan,Efisiensi BBM,Dalam,,Efisiensi BBM,Emisi Utama,,,Emisi Rendah,
+Merek,,Nama Model,Tipe,Tipe,Mesin,Tipe &,(kg),(kg),(kg),Struktur,(km/L),Emisi CO2,,Peningkatan,Gas Buang,Penggerak,Lainnya,Sertifikasi Gas,
+,,,,,(L),Jumlah Gigi,,,,,,(g-CO2/km),,Langkah,Langkah,Tipe,,Level,
+Nissan,,NV350 キャラバン,LDF-VW2E26,YD25,2.488,5MT,1810～1870,1200～1250,3140～3275,Struktur B1,13.2,195.9257575757576,13.3,,"3W,EGR,DF",R,,,
+,,,LDF-VW2E26,YD25,2.488,5MT,1880～1970,1000～1200,3030～3295,Struktur B1,13.0,198.94,12.8,,"3W,EGR,DF",R,,,101.0
+,,,LDF-VW2E26,YD25,2.488,5AT(E･LTC),1830～1870,1250.0,3245～3285,Struktur B1,12.4,208.56612903225806,11.0,,"3W,EGR,DF",R,,,112.0
+,,,LDF-VW2E26,YD25,2.488,5AT(E･LTC),1880～1970,1000～1250,3070～3315,Struktur B1,12.2,212.0,10.8,,"3W,EGR,DF",R,Tipe Lantai Standar,,112.0
+,,,LDF-VW2E26,YD25,2.488,5AT(E･LTC),1970～1990,1000.0,3050～3155,Struktur B1,12.0,216.0,10.8,,"3W,EGR,DF",R,Tipe Lantai Datar,,111.0
+,,,LDF-CW4E26,YD25,2.488,5AT(E･LTC),1930～1940,1250.0,3345～3355,Struktur B1,12.2,212.0,10.8,,"3W,EGR,DF",R,,,112.0
+,,,LDF-CW4E26,YD25,2.488,5AT(E･LTC),1960～1990,1200～1250,3250～3385,Struktur B1,12.0,216.0,10.8,,"3W,EGR,DF",R,,,111.0
+,,,LDF-CW4E26,YD25,2.488,5AT(E･LTC),2000～2030,1150～1200,3245～3395,Struktur B1,12.0,216.0,10.3,,"3W,EGR,DF",R,,,116.0
+,,,LDF-CW4E26,YD25,2.488,5AT(E･LTC),2050～2080,1000.0,3140～3260,Struktur B1,11.8,219.0,10.3,,"3W,EGR,DF",R,,,114.0
+,,,LDF-VW6E26,YD25,2.488,5AT(E･LTC),1930～1990,1000.0,3095～3170,Struktur B1,11.6,222.95000000000002,10.8,,"3W,EGR,DF",A,,,107.0
+,,,LDF-VW6E26,YD25,2.488,5AT(E･LTC),2000～2070,1000.0,3105～3230,Struktur B1,11.4,226.8614035087719,10.3,,"3W,EGR,DF",A,,,110.0
+,,,LDF-CW8E26,YD25,2.488,5AT(E･LTC),2030～2100,1000.0,3195～3280,Struktur B1,11.4,226.8614035087719,10.3,,"3W,EGR,DF",A,,,110.0
+,,,LDF-CW8E26,YD25,2.488,5AT(E･LTC),2110～2130,1000.0,3205～3310,Struktur B1,11.2,230.9125,9.4,,"3W,EGR,DF",A,,,119.0
+,,,LDF-CW8E26,YD25,2.488,5AT(E･LTC),2150～2180,1000.0,3315～3360,Struktur B1,11.0,235.0,9.4,,"3W,EGR,DF",A,,,117.0
+,,,,,,,,,,,,,,,,,,,
+,,(Catatan)「Nilai Setara Efisiensi BBMAtauStandar Efisiensi BBM」の欄には、Total Berat Kendaraan1.7トン以下の車両についてはStandar Efisiensi BBMをディーゼル車用に換算した値（Nilai Setara Efisiensi BBM）を、,,,,,,,,,,,,,,,,,
+,,Total Berat Kendaraan1.7トンLebih dari3.5トン以下の車両についてはStandar Efisiensi BBMを記載しています。,,,,,,,,,,,,,,,,,

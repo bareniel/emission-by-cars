@@ -1,0 +1,30 @@
+,,,,,,,,,Nama Perusahaan Produsen atau Importir Kendaraan　　Mitsubishi Motors Corporation,,,,,,,,,,
+Mobil Barang Bensin (Standar/Kompak),,,,,,,,,,,,,,,,,,,Tahun Target (TA 2010)
+,,,,,,,,,,,Mode 10-15,,,,,,,,Tingkat Pencapaian Standar BBM
+,,,,Mesin,,,,,,,,1km Berkendara,,Utama,Faktor Lain Pembeda Efisiensi BBM,,,(Referensi),
+,,,,,Kapasitas,Tipe Transmisi &,Berat Kendaraan,Kapasitas Muatan,Total Berat Kendaraan,Kendaraan,Efisiensi BBM,Dalam,Efisiensi BBM,Efisiensi BBM,Emisi Utama,,,Emisi Rendah,
+Merek,,Nama Model,Tipe,Tipe,Mesin,Tipe &,(kg),(kg),(kg),Struktur,(km/L),Emisi CO2,Standar,Peningkatan,Gas Buang,Penggerak,Lainnya,Sertifikasi Gas,
+,,,,,(L),Jumlah Gigi,,,,,,(g-CO2/km),(km/L),Langkah,Langkah,Tipe,,Level,
+Mitsubishi,※2,Delica,ABF-SKP2TM,L8,1.798,5MT,1270～1280,850～1000,2230～2390,,11.2,207.29107142857143,10.7,FI,3W+EGR,R,,,105.0
+,,,ABF-SKP2TM,L8,1.798,4AT(E･LTC),1270～1280,850～1000,2230～2380,,10.6,219.0245283018868,10.3,FI,3W+EGR,R,,,100.0
+,,,ABF-SKP2VM,L8,1.798,5MT,1290～1380,500～1000,2105～2490,,11.0,211.05999999999997,10.7,FI,3W+EGR,R,,,100.0
+,,,ABF-SKP2VM,L8,1.798,4AT(E･LTC),1300～1390,500～1000,2105～2500,,10.8,214.9685185185185,10.3,FI,3W+EGR,R,,,105.0
+,,,ABF-SKP2LM,L8,1.798,5MT,1410.0,900.0,2420.0,,10.4,223.23653846153843,10.7,FI,3W+EGR,A,Ban Tunggal,,
+,,,ABF-SKP2LM,L8,1.798,5MT,1400～1410,1000.0,2510～2520,,10.4,223.23653846153843,／,FI,3W+EGR,A,Ban Ganda,,Tanpa Standar BBM
+,,,ABF-SKP2LM,L8,1.798,4AT(E･LTC),1400.0,1000.0,2510.0,,10.2,227.6137254901961,／,FI,3W+EGR,A,Ban Ganda,,Tanpa Standar BBM
+,,,ABF-SKP2MM,L8,1.798,5MT,1450～1480,950.0,2510～2540,,10.4,223.23653846153843,／,FI,3W+EGR,A,,,Tanpa Standar BBM
+,,,ABF-SKP2MM,L8,1.798,4AT(E･LTC),1450～1500,950.0,2510～2560,,10.2,227.6137254901961,／,FI,3W+EGR,A,,,Tanpa Standar BBM
+,※1,Lancer Cargo,DBF-CVY12,HR15,1.498,4AT（E･LTC),1140～1150,450.0,1700～1725,Struktur A,16.2,143.31234567901234,12.5,"EP,V",3W+EGR,F,,☆☆☆☆,125.0
+,,,DBF-CVZNY12,HR16,1.597,4AT(E･LTC),1250.0,400.0,1760～1775,Struktur A,13.8,168.23623188405796,12.5,"V,EP",3W,A,,☆☆☆☆,110.0
+,,,DBF-CVZNY12,HR16,1.597,4AT(E･LTC),1270.0,400.0,1780～1795,,13.0,178.58923076923077,10.3,"V,EP",3W,A,,☆☆☆☆,125.0
+,,,CBF-CVJY12,MR18,1.797,4AT（E･LTC),1170～1180,450.0,1730～1755,Struktur A,13.8,168.23623188405796,12.5,"EP,V",3W,F,,☆☆☆,110.0
+,※1,Delicaバン,DBF-BVM20,HR16,1.597,5MT,1200～1250,600.0,1895～1970,Struktur B,14.8,156.8689189189189,12.3,"V,EP",3W,F,,☆☆☆☆,120.0
+,,,DBF-BVM20,HR16,1.597,5MT,1270.0,600.0,1945～1980,,14.0,165.83285714285714,10.7,"V,EP",3W,F,,☆☆☆☆,125.0
+,,,DBF-BVM20,HR16,1.597,4AT(E･LTC),1230～1250,600.0,1925～1970,Struktur B,14.0,165.83285714285714,11.2,"V,EP",3W,F,,☆☆☆☆,125.0
+,,,DBF-BVM20,HR16,1.597,4AT(E･LTC),1270～1300,600.0,1945～2010,,13.2,175.88333333333335,10.3,"V,EP",3W,F,,☆☆☆☆,125.0
+,,,,,,,,,,,,,,,,,,,
+,"※1印の付いているNama Modelについては、Nissan Motor Co., Ltd.が製造事業者です。",,,,,,,,,,,,,,,,,,
+,※2印の付いているNama Modelについては、Mazda Motor Corporationが製造事業者です。,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,(Catatan)　Mode JC08Efisiensi BBMを有する車両については、Mode 10-15Efisiensi BBMに下線を引いています。,,,,,,,,,,,,,,,,,,
+,(Catatan)　Total Berat Kendaraan2.5tLebih dari3.5t以下の貨物車については、平成22年度Standar BBMは設定されていません。,,,,,,,,,,,,,,,,,,

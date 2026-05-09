@@ -1,0 +1,103 @@
+,,,,,,,,,Nama Perusahaan Produsen atau Importir Kendaraan,,,,,,,,Toyota Motor Corporation,,
+Mobil Barang Bensin (Standar/Kompak),,,,,,,,,,,,,,,,,,,Tahun Target (TA 2010)
+,,,,,,,,,,,Mode 10-15,,,,,,,,Tingkat Pencapaian Standar BBM
+,,,,Mesin,,,,,,,,１ｋｍ走行,,Utama,Faktor Lain Pembeda Efisiensi BBM,,,(Referensi),
+,,,,,Kapasitas,Tipe Transmisi &,Berat Kendaraan,Kapasitas Muatan,Total Berat Kendaraan,Kendaraan,Efisiensi BBM,Dalam,Efisiensi BBM,Efisiensi BBM,Emisi Utama,,,Emisi Rendah,
+Merek,,Nama Model,Tipe,Tipe,Mesin,Tipe &,(kg),(kg),(kg),Struktur,(km/L),Emisi CO2,Standar,Peningkatan,Gas Buang,Penggerak,Lainnya,Sertifikasi Gas,
+,,,,,(Ｌ）,Jumlah Gigi,,,,,,(g-CO2/km),(km/L),Langkah,Langkah,Tipe,,Level,
+Toyota,※,"TownAce
+LiteAce",ABF-S402M,3SZ,1.495,5MT,1190～1220,500～750,1965～2080,Struktur B,13.0,178.58923076923077,12.3,"V,FI",3W,R,,,105
+,,,ABF-S402M,3SZ,1.495,"4AT
+（E・LTC）",1200～1230,500～750,1975～2090,Struktur B,12.6,184.25873015873015,11.2,"V,FI",3W,R,,,110
+,,,ABF-S412M,3SZ,1.495,5MT,1280～1290,500～700,2055～2100,,12.8,181.3796875,10.7,"V,FI",3W,A,,,120
+,,,ABF-S412M,3SZ,1.495,4AT（E・LTC）,1290～1300,500～700,2065～2110,,12.0,193.47166666666664,10.3,"V,FI",3W,A,,,115
+,,,ABF-S402U,3SZ,1.495,5MT,1100～1120,800.0,2010～2030,Struktur B,13.0,178.58923076923077,12.3,"V,FI",3W,R,,,105
+,,,ABF-S402U,3SZ,1.495,"4AT
+（E・LTC）",1110～1130,800.0,2020～2040,Struktur B,12.6,184.25873015873015,11.2,"V,FI",3W,R,,,110
+,,,ABF-S412U,3SZ,1.495,5MT,1190.0,750.0,2050.0,Struktur B,12.8,181.3796875,12.3,"V,FI",3W,A,,,100
+,,,ABF-S412U,3SZ,1.495,4AT（E・LTC）,1200.0,750.0,2060.0,Struktur B,12.0,193.47166666666664,11.2,"V,FI",3W,A,,,105
+,,"HiAce
+RegiusAce",CBF-TRH200V,1TR,1.998,5MT,1610～1750,850～1250,2885～3115,Struktur B1,10.0,232.166,/,"V
+FI","3W
+AI",R,,☆☆☆,Tanpa Standar BBM
+,,,CBF-TRH200V,1TR,1.998,4AT(E・LTC),1620～1760,850～1250,2870～3125,Struktur B1,9.5,244.3852631578947,/,"V
+FI","3W
+AI",R,,☆☆☆,Tanpa Standar BBM
+,,,CBF-TRH200V,1TR,1.998,4AT(E・LTC),1770.0,850～1000,2880～2895,Struktur B1,9.1,255.12747252747252,/,"V
+FI","3W
+AI",R,,☆☆☆,Tanpa Standar BBM
+,,,CBF-TRH200K,1TR,1.998,5MT,1660～1760,850～1250,2905～3125,Struktur B1,10.0,232.166,/,"V
+FI","3W
+AI",R,,☆☆☆,Tanpa Standar BBM
+,,,CBF-TRH200K,1TR,1.998,5MT,1770.0,850～1000,2935～2950,Struktur B1,9.8,236.90408163265303,/,"V
+FI","3W
+AI",R,,☆☆☆,Tanpa Standar BBM
+,,,CBF-TRH200K,1TR,1.998,4AT(E・LTC),1670～1760,850～1250,2915～3135,Struktur B1,9.5,244.3852631578947,/,"V
+FI","3W
+AI",R,,☆☆☆,Tanpa Standar BBM
+,,,CBF-TRH200K,1TR,1.998,4AT(E・LTC),1770～1780,850～1000,2935～2960,Struktur B1,9.1,255.12747252747252,/,"V
+FI","3W
+AI",R,,☆☆☆,Tanpa Standar BBM
+,,,CBF-TRH211K,2TR,2.693,4AT(E・LTC),1880～1890,850～1000,2990～3015,Struktur B1,9.1,255.12747252747252,/,"V
+FI
+B","3W
+AI",R,,☆☆☆,Tanpa Standar BBM
+,,,CBF-TRH221K,2TR,2.693,4AT(E・LTC),1850～1880,850～1000,3015～3060,Struktur B1,8.6,269.96046511627907,/,"V
+FI
+B","3W
+AI",R,,☆☆☆,Tanpa Standar BBM
+,,,CBF-TRH216K,2TR,2.693,4AT(E・LTC),1990～2000,850～1000,3100～3125,Struktur B1,8.2,283.1292682926829,/,"V
+FI
+B","3W
+AI",A,,☆☆☆,Tanpa Standar BBM
+,,,CBF-TRH226K,2TR,2.693,4AT(E・LTC),1960～1990,850～1000,3125～3170,Struktur B1,8.2,283.1292682926829,/,"V
+FI
+B","3W
+AI",A,,☆☆☆,Tanpa Standar BBM
+,,"Dyna
+ToyoAce","ABF-
+TRY220",1TR,1.998,5MT,"1550～
+1630","1000～
+1250","2910～
+3015",Struktur B2,9.6,241.83958333333334,／,"V
+FI","3W
+AI",R,,,Tanpa Standar BBM
+,,,"ABF-
+TRY220",1TR,1.998,5MT,"1560～
+1750","1250～
+1500","2975～
+3415",Struktur B2,9.2,252.35434782608698,／,"V
+FI","3W
+AI",R,,,Tanpa Standar BBM
+,,,"ABF-
+TRY220",1TR,1.998,"4AT
+（E・LTC）","1560～
+1600",1250.0,"2975～
+3015",Struktur B2,8.4,276.38809523809516,／,"V
+FI","3W
+AI",R,,,Tanpa Standar BBM
+,,,"ABF-
+TRY230",1TR,1.998,5MT,"1570～
+1700","1000～
+1250","2980～
+3030",Struktur B2,9.6,241.83958333333334,／,"V
+FI","3W
+AI",R,,,Tanpa Standar BBM
+,,,"ABF-
+TRY230",1TR,1.998,5MT,"1590～
+1760","1250～
+1500","3250～
+3425",Struktur B2,9.2,252.35434782608698,／,"V
+FI","3W
+AI",R,,,Tanpa Standar BBM
+,,,"ABF-
+TRY230",1TR,1.998,"4AT
+（E・LTC）","1580～
+1720","1250～
+1500","2995～
+3385",Struktur B2,8.4,276.38809523809516,／,"V
+FI","3W
+AI",R,,,Tanpa Standar BBM
+,,(Catatan)Mode JC08Efisiensi BBMを有する車両については、Mode 10-15Efisiensi BBMに下線を引いています。,,,,,,,,,,,,,,,,,
+,,(Catatan)Total Berat Kendaraan2.5tLebih dari3.5t以下の貨物車については、平成２２年度Standar BBMは設定されていません。,,,,,,,,,,,,,,,,,
+,," *印の付いているNama Modelについては、Daihatsu Motor Co., Ltd.が製造事業者です。",,,,,,,,,,,,,,,,,
