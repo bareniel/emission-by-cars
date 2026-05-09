@@ -1,0 +1,35 @@
+,,,,,,,,,Nama Perusahaan Produsen atau Importir Kendaraan,,,,,,,"Daihatsu Motor Co., Ltd.",,,
+Mobil Barang Bensin (Mobil Ringan/Keicar),,,,,,,,,,,,,,,,,,,Tahun Target (TA 2015)
+,,,,,,,,,,,Mode JC08,,,,,,,,Tingkat Pencapaian Standar BBM
+,,,,Mesin,,,,,,,,1km Berkendara,,Utama,Faktor Lain Pembeda Efisiensi BBM,,,(Referensi),
+,,,,,Kapasitas,Tipe Transmisi &,Berat Kendaraan,Kapasitas Muatan,Total Berat Kendaraan,Kendaraan,Efisiensi BBM,Dalam,Efisiensi BBM,Efisiensi BBM,Emisi Utama,,,Emisi Rendah,
+Merek,,Nama Model,Tipe,Tipe,Mesin,Tipe &,(kg),(kg),(kg),Struktur,(km/L),Emisi CO2,Standar,Peningkatan,Gas Buang,Penggerak,Lainnya,Sertifikasi Gas,
+,,,,,(L),Jumlah Gigi,,,,,,(g-CO2/km),(km/L),Langkah,Langkah,Tipe,,Level,
+Daihatsu,,Mira,HBD-L275V,KF,0.658,5MT,710.0,100～200,1020～1030,Struktur A,24.2,95.93636363636364,23.2,Ｖ、FI、EP,3W,F,,☆☆☆☆,104.0
+,,,HBD-L275V,KF,0.658,CVT(E･LTC),740.0,100～200,1050～1060,Struktur A,22.2,104.57927927927929,20.9,Ｖ、FI、EP、C,3W,F,,☆☆☆☆,106.0
+,,,HBD-L285V,KF,0.658,5MT,760.0,100～200,1070～1080,Struktur A,21.6,107.48425925925925,20.3,Ｖ、FI、EP,3W,A,,☆☆☆☆,106.0
+,,,HBD-L285V,KF,0.658,CVT(E･LTC),790.0,100～200,1100～1110,Struktur A,20.2,114.93366336633663,19.6,Ｖ、FI、EP、C,3W,A,,☆☆☆☆,103.0
+,,Hijet,EBD-S201P,KF,0.658,5MT,700～730,350.0,1160～1190,Struktur B,16.8,138.19404761904758,18.2,V、FI,3W,R,,,
+,,,EBD-S201P,KF,0.658,5MT,750.0,350.0,1210.0,Struktur B,16.8,138.19404761904758,18.0,V、FI,3W,R,,,
+,,,EBD-S201P,KF,0.658,3AT,710～740,350.0,1170～1200,Struktur B,15.6,148.824358974359,16.4,V、FI,3W,R,,,
+,,,EBD-S201P,KF,0.658,3AT,760.0,350.0,1220.0,Struktur B,15.6,148.824358974359,16.0,V、FI,3W,R,,,
+,,,EBD-S211P,KF,0.658,5MT,750～800,350.0,1210～1260,Struktur B,16.8,138.19404761904758,18.0,V、FI,3W,A,,,
+,,,EBD-S211P,KF,0.658,3AT,760～810,350.0,1220～1270,Struktur B,15.6,148.824358974359,16.0,V、FI,3W,A,,,
+,,,EBD-S321V,KF,0.658,5MT,930.0,200.0,1240.0,Struktur B,16.4,141.56463414634146,17.2,FI,3W,R,,,
+,,,EBD-S321V,KF,0.658,5MT,860～920,350.0,1320～1380,Struktur B,16.2,143.31234567901234,17.2,V、FI,3W,R,,,
+,,,EBD-S321V,KF,0.658,4AT,860～930,350.0,1320～1390,Struktur B,15.6,148.824358974359,15.4,V、FI,3W,R,,,101.0
+,,,EBD-S321V,KF,0.658,4AT,940.0,200.0,1250.0,Struktur B,14.4,161.2263888888889,15.4,FI,3W,R,,,
+,,,EBD-S331V,KF,0.658,5MT,970.0,200.0,1280.0,Struktur B,16.4,141.56463414634146,17.2,FI,3W,A,,,
+,,,EBD-S331V,KF,0.658,5MT,890～970,350.0,1350～1430,Struktur B,16.2,143.31234567901234,17.2,V、FI,3W,A,,,
+,,,EBD-S331V,KF,0.658,4AT,910～960,350.0,1370～1420,Struktur B,15.2,152.74078947368417,15.4,V、FI,3W,A,,,
+,,,EBD-S331V,KF,0.658,4AT,980.0,350.0,1440.0,Struktur B,14.8,156.8689189189189,14.7,V、FI,3W,A,,,100.0
+,,,EBD-S331V,KF,0.658,4AT,980.0,200.0,1290.0,Struktur B,13.4,173.25820895522384,14.7,FI,3W,A,,,
+,,,EBD-S201C,KF,0.658,5MT,810～830,350.0,1270～1290,Struktur B,16.2,143.31234567901234,18.0,V、FI,3W,R,,,
+,,,EBD-S201C,KF,0.658,3AT,830～850,350.0,1290～1310,Struktur B,15.6,148.824358974359,16.0,V、FI,3W,R,,,
+,,,EBD-S211C,KF,0.658,5MT,870～890,350.0,1330～1350,Struktur B,16.2,143.31234567901234,17.2,V、FI,3W,A,,,
+,,,GBD-S321V,KF,0.658,4AT,860～900,350.0,1320～1360,Struktur B,15.6,148.824358974359,15.4,V、FI,3W,R,,☆☆☆,101.0
+,,,GBD-S331V,KF,0.658,4AT,910～950,350.0,1370～1410,Struktur B,15.2,152.74078947368417,15.4,V、FI,3W,A,,☆☆☆,
+,,HijetDeck Van,EBD-S321W,KF,0.658,5MT,870.0,250.0,1340.0,Struktur B,16.2,143.31234567901234,17.2,V、FI,3W,R,,,
+,,,EBD-S321W,KF,0.658,4AT,880.0,250.0,1350.0,Struktur B,15.6,148.824358974359,15.4,V、FI,3W,R,,,101.0
+,,,EBD-S331W,KF,0.658,5MT,890～920,250.0,1360～1390,Struktur B,16.2,143.31234567901234,17.2,V、FI,3W,A,,,
+,,,EBD-S331W,KF,0.658,4AT,910～940,250.0,1380～1410,Struktur B,15.2,152.74078947368417,15.4,V、FI,3W,A,,,

@@ -1,0 +1,28 @@
+,,,,,,,,,Nama Perusahaan Produsen atau Importir Kendaraan　　　　Suzuki Motor Corporation,,,,,,,,,,
+Mobil Barang Bensin (Mobil Ringan/Keicar),,,,,,,,,,,,,,,,,,,Tahun Target (TA 2015)
+,,,,,,,,,,,Mode JC08,,,,,,,,Tingkat Pencapaian Standar BBM
+,,,,Mesin,,,,,,,,1km Berkendara,,Utama,Faktor Lain Pembeda Efisiensi BBM,,,(Referensi),
+,,,,,Kapasitas,Tipe Transmisi &,Berat Kendaraan,Kapasitas Muatan,Total Berat Kendaraan,Kendaraan,Efisiensi BBM,Dalam,Efisiensi BBM,Efisiensi BBM,Emisi Utama,,,Emisi Rendah,
+Merek,,Nama Model,Tipe,Tipe,Mesin,Tipe &,(kg),(kg),(kg),Struktur,(km/L),Emisi CO2,Standar,Peningkatan,Gas Buang,Penggerak,Lainnya,Sertifikasi Gas,
+,,,,,(L),Jumlah Gigi,,,,,,(g-CO2/km),(km/L),Langkah,Langkah,Tipe,,Level,
+Suzuki,,Alto,HBD-HA25V,K6A,0.658,5MT,690～700,100～200,1000～1020,Struktur A,22.6,102.72831858407078,23.2,"V,FI,EP",3W,F,,☆☆☆☆,
+,,,HBD-HA25V,K6A,0.658,4AT(E･LTC),710～720,100～200,1020～1040,Struktur A,21.8,106.49816513761466,20.9,"V,FI,EP",3W,F,,☆☆☆☆,104.0
+,,,HBD-HA25V,K6A,0.658,5MT,750.0,100～200,1060～1070,Struktur A,21.0,110.55523809523808,20.3,"V,FI,EP",3W,A,,☆☆☆☆,103.0
+,,,HBD-HA25V,K6A,0.658,4AT(E･LTC),760～770,100～200,1070～1090,Struktur A,20.0,116.083,19.6,"V,FI,EP",3W,A,,☆☆☆☆,102.0
+,,Carry,EBD-DA16T,Ｒ06A,0.658,5MT,680～690,350.0,1140～1150,Struktur B,18.6,124.82043010752686,18.2,"V,FI",3W,R,,,102.0
+,,,EBD-DA16T,Ｒ06A,0.658,3AT(E),690～700,350.0,1150～1160,Struktur B,16.8,138.19404761904758,16.4,"V,FI",3W,R,,,102.0
+,,,EBD-DA16T,Ｒ06A,0.658,5MT,720～730,350.0,1180～1190,Struktur B,18.4,126.17717391304349,18.2,"V,FI",3W,A,,,101.0
+,,,EBD-DA16T,Ｒ06A,0.658,5MT×2,730～740,350.0,1190～1200,Struktur B,18.4,126.17717391304349,18.2,"V,FI",3W,A,,,101.0
+,,,EBD-DA16T,Ｒ06A,0.658,3AT(E),730～740,350.0,1190～1200,Struktur B,16.6,139.85903614457828,16.4,"V,FI",3W,A,,,101.0
+,,Every,HBD-DA64V,K6A,0.658,3AT(E),880～930,250～350,1340～1400,Struktur B,15.4,150.75714285714284,15.4,"FI,EP",3W,R,,☆☆☆☆,100.0
+,,,HBD-DA64V,K6A,0.658,3AT(E),920～970,250～350,1380～1440,Struktur B,15.4,150.75714285714284,15.4,"FI,EP",3W,A,,☆☆☆☆,100.0
+,,,EBD-DA64V,K6A,0.658,5MT,880～930,250～350,1340～1400,Struktur B,15.8,146.9405063291139,17.2,"FI,EP",3W,R,,,
+,,,EBD-DA64V,K6A,0.658,3AT(E),880～930,250～350,1340～1400,Struktur B,15.0,154.77733333333333,15.4,"FI,EP",3W,R,,,
+,,,EBD-DA64V,K6A,0.658,5MT,920～970,250～350,1380～1440,Struktur B,15.2,152.74078947368417,17.2,"FI,EP",3W,A,,,
+,,,EBD-DA64V,K6A,0.658,3AT(E),920～970,250～350,1380～1440,Struktur B,14.6,159.01780821917808,15.4,"FI,EP",3W,A,,,
+,,,EBD-DA64V,K6A,0.658,5MT,910～950,250～350,1370～1420,Struktur B,16.4,141.56463414634146,17.2,"FI,EP",3W,R,Dengan Turbocharger,,
+,,,EBD-DA64V,K6A,0.658,4AT(E),920～960,250～350,1380～1430,Struktur B,14.4,161.2263888888889,15.4,"FI,EP",3W,R,Dengan Turbocharger,,
+,,,EBD-DA64V,K6A,0.658,5MT,950～970,250～350,1410～1440,Struktur B,16.4,141.56463414634146,17.2,"FI,EP",3W,A,Dengan Turbocharger,,
+,,,EBD-DA64V,K6A,0.658,5MT,980～990,250～350,1440～1460,Struktur B,15.8,146.9405063291139,16.4,"FI,EP",3W,A,Dengan Turbocharger,,
+,,,EBD-DA64V,K6A,0.658,4AT(E),960～970,250～350,1420～1440,Struktur B,14.4,161.2263888888889,15.4,"FI,EP",3W,A,Dengan Turbocharger,,
+,,,EBD-DA64V,K6A,0.658,4AT(E),980～1000,250～350,1440～1470,Struktur B,13.8,168.23623188405796,14.7,"FI,EP",3W,A,Dengan Turbocharger,,
